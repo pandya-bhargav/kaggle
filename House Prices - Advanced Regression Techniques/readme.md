@@ -11,4 +11,25 @@ Dataset :
 
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
 
+Techniques and tools :
 
+COMBINE TEST AND TRAIN DATA
+Fill categoricla missing value
+Numerical missing value
+Feature Engineering
+Feature Transformations
+cosine Transform for month
+Encode Categoricals
+Target Trasformation
+Model selection
+Baseline Model
+Begging Ensemble
+combine Prediction
+Hyperparameter Optimization
+Bagging Ensemble
+Make Submission
+
+
+Result : 
+
+My best score on the Kaggle Leaderboard: 0.12457
